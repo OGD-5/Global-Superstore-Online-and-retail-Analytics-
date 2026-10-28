@@ -17,8 +17,8 @@ The analysis identifies global sales trends, product category profitability, and
 * **Geographic Concentration:** The APAC (Asia-Pacific) and European (EU) markets dominate global sales volume, outperforming newer or smaller regions like Africa and Canada.
 
 ## Final Deliverables Included in this Repository
-* `Global_Superstore_Dashboard.pbix`: The master Microsoft Power BI project file containing the cleaned data model, DAX measures, and interactive dashboard.
-* `Dashboard_Screenshot.pdf`: A high-resolution export of the interactive executive dashboard.
+* `Global_Superstore_analysis.pbix`: The master Microsoft Power BI project file containing the cleaned data model, DAX measures, and interactive dashboard.
+* `Global_Superstore_dashboard_analysis.pdf`: A high-resolution export of the interactive executive dashboard.
 * `BI_Overview_Report.pdf`: A foundational report detailing Business Intelligence principles and the dataset's core business objective.
 * `Executive_Summary_Report.pdf`: A comprehensive summary detailing key data-driven insights, identified business risks, market opportunities, and strategic recommendations.
 
